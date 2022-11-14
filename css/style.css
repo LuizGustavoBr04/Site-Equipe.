@@ -1,0 +1,93 @@
+#car{
+    filter: brightness(75%);
+    margin-top: -7%;
+}
+
+#car-box{
+    width: auto;
+    height: auto;
+    max-height: 800px;
+}
+
+#car-t{
+    margin-bottom: 7.5%;
+}
+
+#text-jus{
+    text-align: center;
+}
+
+table{
+    margin:auto;
+}
+
+td{
+    padding: 1.35vw;
+}
+
+td #text{
+    text-align: center;
+}
+
+#pessoas{
+    width: 15vw;
+}
+
+#search-b{
+    transition: all 0.5s;
+}
+
+#search-b:hover{
+    width: 15vw;
+    padding-right: 105px;
+}
+
+#serv{
+    background-image: url('../img/bg-serv.jpg');
+    background-color: #000000cb;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+#atu-img{
+    width: 20vw;
+    height: 20vw;
+    object-fit: cover;
+}
+
+#btn-atu{
+    margin-inline: 5.5vw;
+}
+
+#atu{
+    background-image: url('../img/bg-atu.jpg');
+    background-color: #000000cb;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+#foot-icon{
+    width: 2vw;
+    height: 2vw;
+    object-fit: contain;
+}
+
+#foot-icon-2{
+    width: 2vw;
+    height: 2vw;
+    object-fit: contain;
+    margin: 0.25vw;
+}
+
+#foot{
+    width: 4.5vw;
+    padding-right: 1vw; 
+}
+
+#text-port{
+    font-size: larger;
+}
